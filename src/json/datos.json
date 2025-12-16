@@ -1,0 +1,76 @@
+{
+  "dinosaurio": [
+    {
+      "nombre": "Dinosaurio",
+      "especie": "Especie",
+      "tipo": "Tipo",
+      "era": "Jurásico",
+      "alimentacion": "Carne",
+      "id": "9b27"
+    },
+    {
+      "nombre": "Dinosaurio 1",
+      "especie": "Especie 1",
+      "tipo": "Tipo 1",
+      "era": "Jurásico",
+      "alimentacion": "Carne",
+      "id": "1d34"
+    },
+    {
+      "nombre": "Dinosaurio 2",
+      "especie": "Especie 2",
+      "tipo": "Tipo 2",
+      "era": "Jurásico",
+      "alimentacion": "Carne",
+      "id": "5391"
+    },
+    {
+      "nombre": "Dinosaurio 3 ",
+      "especie": "Especie 3 ",
+      "tipo": "Tipo 3",
+      "era": "Jurásico",
+      "alimentacion": "Carne",
+      "id": "b83d"
+    },
+    {
+      "nombre": "Dinosaurio 4",
+      "especie": "Especie 4",
+      "tipo": "Tipo 4",
+      "era": "Jurásico",
+      "alimentacion": "Carne",
+      "id": "1f85"
+    },
+    {
+      "id": "183b",
+      "nombre": "Dinosaurio 5 ",
+      "especie": "Especie 5",
+      "tipo": "Tipo 5",
+      "era": "Jurásico",
+      "alimentacion": "Carne"
+    },
+    {
+      "id": "1b0c",
+      "nombre": "Dinosaurio 6",
+      "especie": "Especie 6",
+      "tipo": "Tipo 6",
+      "era": "Jurásico",
+      "alimentacion": "Carne"
+    },
+    {
+      "nombre": "Dinosaurio 7",
+      "especie": "Especie 7",
+      "tipo": "Tipo 7",
+      "era": "Jurásico",
+      "alimentacion": "Carne",
+      "id": "c69b"
+    },
+    {
+      "id": "76b2",
+      "nombre": "Dinosaurio 8",
+      "especie": "Especie 8",
+      "tipo": "Tipo 8",
+      "era": "Jurásico",
+      "alimentacion": "Carne"
+    }
+  ]
+}
